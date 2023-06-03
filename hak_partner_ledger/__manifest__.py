@@ -4,7 +4,7 @@
     'version': '14.0',
     'summary': 'Partner Ledger Report',
     'description': 'Partner Ledger Report',
-    'author': 'HAK Solutions',
+    'author': "HAK Tehnologies",
     'maintainer': 'Haksolutions',
     'company': 'Haksolutions',
     'website': 'https://www.Haksolutions.com',
